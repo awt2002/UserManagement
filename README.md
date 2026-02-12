@@ -282,4 +282,4 @@ UserManagement/
 
 ## License
 
-This project is open source. Feel free to use and modify it as needed.
+This project is open source.

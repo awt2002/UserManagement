@@ -2,7 +2,7 @@
 
 A RESTful User Management API built with **ASP.NET Core 9** and **ASP.NET Core Identity**. It provides JWT-based authentication with refresh tokens, role-based authorization, email confirmation, password reset, and a full admin panel API.
 
----
+--- 
  
 ## Features
 

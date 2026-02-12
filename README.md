@@ -104,7 +104,7 @@ The API will start at **https://localhost:7122** by default.
 
 ### 5. Explore with Swagger
 
-Open [https://localhost:7122/swagger](https://localhost:7122/swagger) to view and test all endpoints.
+Open [https://localhost:7122/swagger](https://localhost:7122/swagger/index.html) to view and test all endpoints.
 
 Use the **Authorize** button in Swagger to enter your JWT token as `Bearer <token>`.
 

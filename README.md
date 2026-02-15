@@ -178,7 +178,7 @@ POST /api/UserManagement/register
 POST /api/UserManagement/login
 
 {
-  "email": "john@example.com",
+  "email": "youremail@example.com",
   "password": "Strong@123"
 }
 ```

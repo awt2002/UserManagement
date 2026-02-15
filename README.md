@@ -166,7 +166,7 @@ POST /api/UserManagement/register
 
 {
   "name": "Your Name",
-  "email": "john@example.com",
+  "email": "youremail@example.com",
   "password": "Strong@123",
   "confirmPassword": "Strong@123"
 }

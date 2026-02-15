@@ -165,7 +165,7 @@ All endpoints return a consistent JSON envelope:
 POST /api/UserManagement/register
 
 {
-  "name": "John Doe",
+  "name": "Your Name",
   "email": "john@example.com",
   "password": "Strong@123",
   "confirmPassword": "Strong@123"

@@ -1,0 +1,55 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build directories
+**/bin/
+**/obj/
+
+# Publish output
+publish/
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+*.nupkg
+*.snupkg
+
+# Rider and temporary files
+*.resharper*
+
+# Certificate files
+*.pfx
+
+# Logs
+*.log
+
+# Ignore local launch settings
+**/Properties/launchSettings.json
+
+# Ignore database files
+*.mdf
+*.ldf
+
+# Ignore user and local settings
+*.sln.user
+*.csproj.user
+*.slnLaunch.user
+*..local
+
+# dotnet
+project.lock.json
+
+# Ignore publish output and generated files
+wwwroot/**/*.bundle.*
+
+# Others
+.DS_Store
+Thumbs.db
